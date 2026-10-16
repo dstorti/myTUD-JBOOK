@@ -2,10 +2,10 @@ version: 1
 project:
   
   authors:
-    - id: student
-      name: student without a name yet
+    - id: storti
+      name: Duane Storti
       affiliations:
-        - tud
+        - uw, uva
 
   contributors:
     - id: supervisor-1
@@ -22,5 +22,9 @@ project:
         - tud
 
   affiliations:
+    - id: uw
+      institution: University of Washington-Seattle
+    - id: uva
+      institution: University van Amsterdam
     - id: tud
       institution: Delft University of Technology
